@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishank779
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning website development
-- 💞️ I’m looking to collaborate on some python projects
+- 👀 I’m interested in  Website Development, Machine Learning and Data Science
+- 🌱 I’m currently learning Django framework
+- 💞️ I’m looking to collaborate on some python projects  and web development
 - 📫 ishanktyagi46251@gmail.com 
 
 
